@@ -1,37 +1,44 @@
 # 🕳️ poccha.co
 
-> My personal portfolio — built with **React**, **Vite**, and **TailwindCSS**.  
-> A minimalist home on the web for everything I build, break, and learn.
+> A personal portfolio built with **React**, **Vite**, and **TailwindCSS** —  
+> a minimalist space for everything I design, develop, and deploy.
 
 ---
 
 ### 🧠 About
 
-I’ve been building things since age 13 — from game servers handling **10,000+ concurrent users** to projects that quietly run in the background.  
-**poccha.co** is my way of collecting it all: projects, thoughts, and experiments that reflect my growth as a software engineer.
+I’ve been building since age 13 — from custom multiplayer servers supporting **10,000+ concurrent users** to full-stack projects that quietly run in production.  
+**poccha.co** is my digital home: a collection of work, experiments, and ideas that reflect my growth as a software engineer.
 
 ---
 
-### ⚙️ Stack
+### ⚙️ Tech Stack
 
-| Purpose | Tech |
-|----------|------|
-| Frontend | React + Vite |
+| Purpose | Technology |
+|----------|-------------|
+| Frontend Framework | React (via Vite) |
 | Styling | TailwindCSS |
 | Deployment | Vercel |
 | Domain | poccha.co |
 
 ---
 
-### 🕹️ Features
+### 🎨 Features
 
 - Dark gray & purple minimalist aesthetic  
-- Smooth fade animations  
-- Responsive layout for all devices  
-- Built to be fast, quiet, and clean  
+- Smooth fade-in and hover animations  
+- Responsive layout optimized for all devices  
+- Lightweight build, fast load times, clean codebase  
+- Simple structure for easy customization and reuse  
 
 ---
 
-### 🚀 Feel free to use or make changes and use this source as you please.
+### 🚀 Getting Started
+
+Clone and run locally:
+
+```bash
+git clone https://github.com/suffer/pocchacco.git
+cd pocchacco
 npm install
 npm run dev
